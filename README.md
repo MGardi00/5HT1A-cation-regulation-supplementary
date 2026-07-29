@@ -8,9 +8,10 @@ Contains GROMACS input files (`.tpr`) for all systems and replicas, alongside re
 
 This repository includes:
 
+* **Initial modeled structures**: Starting structural models (`.pdb`) of the human 5-HT1A receptor used to setup the simulations.
 * **`.tpr` files**: GROMACS run input files for all simulated systems and independent replicas.
 * **`.gro` files**: Representative structure coordinates for the **most representative systems**.
-* **Interaction Energy Data (`.xvg`)**: Energy profiles and analysis data for the **most representative systems**.
+* **Interaction Energy data (`.xvg`)**: Energy profiles and analysis data for the **most representative systems**.
 
 ---
 
